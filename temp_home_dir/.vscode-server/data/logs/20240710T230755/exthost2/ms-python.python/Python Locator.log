@@ -1,0 +1,30 @@
+2024-07-10 23:08:45.227 [info] Starting Python Locator /home/ws_prot_8/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python-env-tools/bin/pet server
+2024-07-10 23:08:45.227 [info] Started Refreshing Environments
+2024-07-10 23:08:45.227 [error] Unable to find Conda Manager for the Conda env: CondaEnvironment { prefix: "/home/ws_prot_8/.micromamba", executable: None, version: None, conda_dir: None, arch: None }
+2024-07-10 23:08:45.227 [info] Discovered env: /home/ws_prot_8/.micromamba
+2024-07-10 23:08:45.546 [info] Discovered env: /usr/bin/python3.6
+2024-07-10 23:08:45.547 [info] Discovered env: /bin/python3.6
+2024-07-10 23:08:45.547 [info] Discovered env: /usr/bin/python3
+2024-07-10 23:08:45.548 [info] Discovered env: /bin/python3
+2024-07-10 23:08:45.548 [info] Discovered env: /usr/bin/python3.11
+2024-07-10 23:08:45.549 [info] Discovered env: /bin/python3.11
+2024-07-10 23:08:45.550 [info] Locator Conda took 3.195148ms
+2024-07-10 23:08:45.550 [info] Locator Homebrew took 383.486µs
+2024-07-10 23:08:45.550 [info] Locator LinuxGlobalPython took 68.321151ms
+2024-07-10 23:08:45.551 [info] Locator PipEnv took 10.583µs
+2024-07-10 23:08:45.552 [info] Locator Poetry took 293.7µs
+2024-07-10 23:08:45.554 [info] Locator PyEnv took 337.606µs
+2024-07-10 23:08:45.554 [info] Locator Venv took 600ns
+2024-07-10 23:08:45.554 [info] Locator VirtualEnv took 282ns
+2024-07-10 23:08:45.554 [info] Locator VirtualEnvWrapper took 273ns
+2024-07-10 23:08:45.554 [info] Environments found using locators in 68.937558ms
+2024-07-10 23:08:45.558 [info] Environments in PATH found in 40.143934ms
+2024-07-10 23:08:45.558 [info] Environments in global virtual env paths found in 71.86µs
+2024-07-10 23:08:45.558 [info] Environments in custom search paths found in 979.786µs
+2024-07-10 23:08:45.558 [info] Refresh completed in 69ms
+2024-07-10 23:08:45.601 [info] Resolved /bin/python3.11 in 51ms
+2024-07-10 23:08:45.601 [info] Resolved /usr/bin/python3.11 in 51ms
+2024-07-10 23:08:45.601 [info] Resolved /bin/python3.6 in 53ms
+2024-07-10 23:08:45.604 [info] Resolved /usr/bin/python3.6 in 56ms
+2024-07-10 23:08:45.604 [info] Resolved /bin/python3 in 55ms
+2024-07-10 23:08:45.605 [info] Resolved /usr/bin/python3 in 57ms

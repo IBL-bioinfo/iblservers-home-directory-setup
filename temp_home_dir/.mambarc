@@ -1,0 +1,10 @@
+envs_dirs:
+  - /vol/local/conda_envs
+pkgs_dirs:
+  - /vol/local/.conda_cache/ws_prot_t
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+auto_activate_base: true
+show_channel_urls: true

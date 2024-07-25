@@ -1,0 +1,129 @@
+2024-07-10 23:08:45.227 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-07-10 23:08:45.227 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-07-10 23:08:45.227 [info] Experiment 'pythonSurveyNotification' is active
+2024-07-10 23:08:45.227 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-07-10 23:08:45.227 [info] Experiment 'pythonTestAdapter' is active
+2024-07-10 23:08:45.227 [error] Reading directory to watch failed [Error: ENOENT: no such file or directory, scandir '/home/ws_prot_8/ws_prot_20240710/.pixi/envs'
+	at Object.readdirSync (node:fs:1515:26)
+	at /home/ws_prot_8/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/out/client/extension.js:2:574598
+	at /home/ws_prot_8/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/out/client/extension.js:2:574789
+	at Array.map (<anonymous>)
+	at d.initWatchers (/home/ws_prot_8/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/out/client/extension.js:2:574507)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async d.ensureWatchersReady (/home/ws_prot_8/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/out/client/extension.js:2:536827)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/ws_prot_8/ws_prot_20240710/.pixi/envs'
+}
+2024-07-10 23:08:45.227 [error] Dir "/home/ws_prot_8/ws_prot_20240710/.pixi/envs" is not watchable (directory does not exist)
+2024-07-10 23:08:45.261 [info] Default formatter is set to null for workspace /home/ws_prot_8/ws_prot_20240710
+2024-07-10 23:08:45.266 [info] Starting Environment refresh
+2024-07-10 23:08:45.537 [info] > pixi --version
+2024-07-10 23:08:45.537 [error] [Error: spawn pixi ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn pixi',
+  path: 'pixi',
+  spawnargs: [ '--version' ]
+}
+2024-07-10 23:08:45.539 [info] > hatch env show --json
+2024-07-10 23:08:45.539 [info] cwd: .
+2024-07-10 23:08:45.558 [info] > "C:\Program Files\Inkscape\bin\python.exe" -I ~/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+2024-07-10 23:08:45.558 [info] Environments refresh paths discovered: 293 milliseconds
+2024-07-10 23:08:45.559 [error] [Error: Command failed: "C:\Program Files\Inkscape\bin\python.exe" -I /home/ws_prot_8/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py /home/ws_prot_8/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+/bin/sh: C:\Program Files\Inkscape\bin\python.exe: command not found
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:530:35)
+	at maybeClose (node:internal/child_process:1105:16)
+	at Socket.<anonymous> (node:internal/child_process:457:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:337:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: '"C:\\Program Files\\Inkscape\\bin\\python.exe" -I /home/ws_prot_8/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py /home/ws_prot_8/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py'
+}
+2024-07-10 23:08:45.712 [info] Starting Environment refresh
+2024-07-10 23:08:45.716 [info] Environments refresh paths discovered: 4 milliseconds
+2024-07-10 23:08:47.563 [info] > "C:\Program Files\Inkscape\bin\python.exe" -I ~/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+2024-07-10 23:08:47.564 [error] [Error: Command failed: "C:\Program Files\Inkscape\bin\python.exe" -I /home/ws_prot_8/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py /home/ws_prot_8/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+/bin/sh: C:\Program Files\Inkscape\bin\python.exe: command not found
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:530:35)
+	at maybeClose (node:internal/child_process:1105:16)
+	at Socket.<anonymous> (node:internal/child_process:457:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:337:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: '"C:\\Program Files\\Inkscape\\bin\\python.exe" -I /home/ws_prot_8/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py /home/ws_prot_8/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py'
+}
+2024-07-10 23:08:47.565 [info] Environments refresh finished (event): 2300 milliseconds
+2024-07-10 23:08:47.565 [info] Environments refresh finished (event): 1853 milliseconds
+2024-07-10 23:08:47.566 [info] Environment refresh took 2301 milliseconds
+2024-07-10 23:08:47.566 [info] Environment refresh took 1854 milliseconds
+2024-07-10 23:08:47.568 [info] > pyenv which python
+2024-07-10 23:08:47.568 [info] cwd: .
+2024-07-10 23:08:47.574 [warning] could not find a pixi interpreter for the interpreter at /bin/python3.11
+2024-07-10 23:08:47.575 [info] Python interpreter path: /bin/python3.11
+2024-07-10 23:08:48.619 [info] Starting Pylance language server.
+2024-07-10 23:09:09.280 [info] > conda info --json
+2024-07-10 23:09:09.284 [info] > /usr/share/anaconda/bin/conda info --json
+2024-07-10 23:14:19.617 [info] Starting Environment refresh
+2024-07-10 23:14:19.617 [info] Searching for interpreters in posix paths locator
+2024-07-10 23:14:19.618 [info] Searching for pyenv environments
+2024-07-10 23:14:19.618 [info] Searching for conda environments
+2024-07-10 23:14:19.619 [info] Searching for global virtual environments
+2024-07-10 23:14:19.619 [info] Searching for custom virtual environments
+2024-07-10 23:14:19.620 [info] pyenv is not installed
+2024-07-10 23:14:19.620 [info] Finished searching for pyenv environments: 2 milliseconds
+2024-07-10 23:14:19.620 [info] Finished searching for custom virtual envs: 2 milliseconds
+2024-07-10 23:14:19.621 [info] Finished searching for global virtual envs: 3 milliseconds
+2024-07-10 23:14:19.625 [info] Found: /bin/python3 --> /usr/libexec/platform-python3.6
+2024-07-10 23:14:19.626 [info] Found: /bin/python3.11 --> /bin/python3.11
+2024-07-10 23:14:19.626 [info] Found: /bin/python3.6 --> /usr/libexec/platform-python3.6
+2024-07-10 23:14:19.634 [info] > /bin/python3.11 -I ~/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+2024-07-10 23:14:19.638 [info] Found: /usr/bin/python3 --> /usr/libexec/platform-python3.6
+2024-07-10 23:14:19.638 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2024-07-10 23:14:19.638 [info] Found: /usr/bin/python3.6 --> /usr/libexec/platform-python3.6
+2024-07-10 23:14:19.647 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+2024-07-10 23:14:19.647 [info] Finished searching for interpreters in posix paths locator: 31 milliseconds
+2024-07-10 23:14:19.649 [info] Environments refresh paths discovered (event): 33 milliseconds
+2024-07-10 23:14:19.649 [info] Environments refresh paths discovered: 33 milliseconds
+2024-07-10 23:14:19.656 [info] > /usr/bin/python3.11 -I ~/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+2024-07-10 23:14:19.676 [info] Environments refresh finished (event): 60 milliseconds
+2024-07-10 23:14:19.683 [info] Environment refresh took 68 milliseconds
+2024-07-10 23:14:19.691 [info] > /bin/python3.6 -I ~/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+2024-07-10 23:14:19.693 [info] > /usr/bin/python3.6 -I ~/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+2024-07-10 23:14:19.714 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+2024-07-10 23:14:46.714 [warning] Failed to check if ~/genvs/oleveler/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '~/genvs/oleveler/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '~/genvs/oleveler/bin/python'
+}
+2024-07-10 23:14:46.716 [warning] /home/ws_prot_8/genvs/oleveler/bin/python identified as Conda environment even though Conda is not found
+2024-07-10 23:14:46.716 [warning] /home/ws_prot_8/genvs/oleveler/bin/python identified as Conda environment even though Conda is not found
+2024-07-10 23:14:46.716 [warning] /home/ws_prot_8/genvs/oleveler/bin/python identified as Conda environment even though Conda is not found
+2024-07-10 23:14:46.716 [warning] /home/ws_prot_8/genvs/oleveler/bin/python identified as Conda environment even though Conda is not found
+2024-07-10 23:14:46.716 [warning] /home/ws_prot_8/genvs/oleveler/bin/python identified as Conda environment even though Conda is not found
+2024-07-10 23:14:46.723 [warning] /home/ws_prot_8/genvs/oleveler/bin/python identified as Conda environment even though Conda is not found
+2024-07-10 23:14:46.724 [warning] Identifier for virt-virtualenv failed to identify ~/genvs/oleveler/bin/python [Error: ENOENT: no such file or directory, scandir '~/genvs/oleveler/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '~/genvs/oleveler/bin'
+}
+2024-07-10 23:14:46.729 [info] > ~/genvs/oleveler/bin/python -I ~/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+2024-07-10 23:14:46.732 [info] > ~/genvs/oleveler/bin/python -I ~/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64/python_files/interpreterInfo.py
+2024-07-10 23:14:46.755 [info] Python interpreter path: ~/genvs/oleveler/bin/python
+2024-07-10 23:14:46.755 [info] Discover tests for workspace name: ws_prot_20240710 - uri: /home/ws_prot_8/ws_prot_20240710
+2024-07-10 23:14:55.762 [warning] could not find a pixi interpreter for the interpreter at /home/ws_prot_8/genvs/oleveler/bin/python
+2024-07-10 23:14:55.826 [warning] could not find a pixi interpreter for the interpreter at /home/ws_prot_8/genvs/oleveler/bin/python

@@ -1,0 +1,68 @@
+2024-07-10 23:07:55.793 [info] 
+
+
+
+
+2024-07-10 23:07:55.800 [info] Extension host agent started.
+2024-07-10 23:07:55.829 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ws_prot_8/.vscode-server/extensions
+2024-07-10 23:07:55.869 [info] [<unknown>][d1a0fe09][ManagementConnection] New connection established.
+2024-07-10 23:07:55.882 [info] [<unknown>][8befc7e7][ExtensionHostConnection] New connection established.
+2024-07-10 23:07:55.914 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ws_prot_8/.vscode-server/extensions
+2024-07-10 23:07:56.023 [info] [<unknown>][8befc7e7][ExtensionHostConnection] <2116581> Launched Extension Host Process.
+2024-07-10 23:08:26.553 [info] [<unknown>][40da6330][ManagementConnection] New connection established.
+2024-07-10 23:08:26.566 [info] [<unknown>][f1822185][ExtensionHostConnection] New connection established.
+2024-07-10 23:08:26.569 [info] [<unknown>][f1822185][ExtensionHostConnection] <2116979> Launched Extension Host Process.
+2024-07-10 23:08:40.965 [info] Getting Manifest... ms-python.python
+2024-07-10 23:08:41.009 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ws_prot_8/.vscode-server/extensions/extensions.json","external":"file:///home/ws_prot_8/.vscode-server/extensions/extensions.json","path":"/home/ws_prot_8/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.0","date":"2024-07-01T18:53:15.739Z"}}
+2024-07-10 23:08:41.152 [info] Getting Manifest... ms-python.vscode-pylance
+2024-07-10 23:08:41.161 [info] Getting Manifest... ms-python.debugpy
+2024-07-10 23:08:41.176 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ws_prot_8/.vscode-server/extensions/extensions.json","external":"file:///home/ws_prot_8/.vscode-server/extensions/extensions.json","path":"/home/ws_prot_8/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.0","date":"2024-07-01T18:53:15.739Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-07-10 23:08:41.177 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ws_prot_8/.vscode-server/extensions/extensions.json","external":"file:///home/ws_prot_8/.vscode-server/extensions/extensions.json","path":"/home/ws_prot_8/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.0","date":"2024-07-01T18:53:15.739Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-07-10 23:08:42.245 [info] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 753ms.
+2024-07-10 23:08:42.394 [info] Extracted extension to file:///home/ws_prot_8/.vscode-server/extensions/ms-python.debugpy-2024.8.0-linux-x64: ms-python.debugpy
+2024-07-10 23:08:42.409 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 713ms.
+2024-07-10 23:08:42.432 [info] Renamed to /home/ws_prot_8/.vscode-server/extensions/ms-python.debugpy-2024.8.0-linux-x64
+2024-07-10 23:08:42.926 [info] Extracted extension to file:///home/ws_prot_8/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64: ms-python.python
+2024-07-10 23:08:42.976 [info] Renamed to /home/ws_prot_8/.vscode-server/extensions/ms-python.python-2024.10.0-linux-x64
+2024-07-10 23:08:43.162 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 1168ms.
+2024-07-10 23:08:44.504 [info] Extracted extension to file:///home/ws_prot_8/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1: ms-python.vscode-pylance
+2024-07-10 23:08:44.785 [info] Renamed to /home/ws_prot_8/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1
+2024-07-10 23:08:44.801 [info] Extension installed successfully: ms-python.debugpy file:///home/ws_prot_8/.vscode-server/extensions/extensions.json
+2024-07-10 23:08:44.802 [info] Extension installed successfully: ms-python.python file:///home/ws_prot_8/.vscode-server/extensions/extensions.json
+2024-07-10 23:08:44.802 [info] Extension installed successfully: ms-python.vscode-pylance file:///home/ws_prot_8/.vscode-server/extensions/extensions.json
+2024-07-10 23:08:48.340 [info] [<unknown>][d1a0fe09][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-07-10 23:09:01.975 [info] Getting Manifest... ms-toolsai.jupyter
+2024-07-10 23:09:02.027 [info] Installing extension: ms-toolsai.jupyter {"installPreReleaseVersion":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ws_prot_8/.vscode-server/extensions/extensions.json","external":"file:///home/ws_prot_8/.vscode-server/extensions/extensions.json","path":"/home/ws_prot_8/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.0","date":"2024-07-01T18:53:15.739Z"}}
+2024-07-10 23:09:02.166 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2024-07-10 23:09:02.172 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2024-07-10 23:09:02.177 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2024-07-10 23:09:02.184 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2024-07-10 23:09:02.198 [info] Installing extension: ms-toolsai.jupyter-keymap {"installPreReleaseVersion":false,"context":{"clientTargetPlatform":"win32-x64","dependecyOrPackExtensionInstall":true},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ws_prot_8/.vscode-server/extensions/extensions.json","external":"file:///home/ws_prot_8/.vscode-server/extensions/extensions.json","path":"/home/ws_prot_8/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.0","date":"2024-07-01T18:53:15.739Z"}}
+2024-07-10 23:09:02.198 [info] Installing extension: ms-toolsai.jupyter-renderers {"installPreReleaseVersion":false,"context":{"clientTargetPlatform":"win32-x64","dependecyOrPackExtensionInstall":true},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ws_prot_8/.vscode-server/extensions/extensions.json","external":"file:///home/ws_prot_8/.vscode-server/extensions/extensions.json","path":"/home/ws_prot_8/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.0","date":"2024-07-01T18:53:15.739Z"}}
+2024-07-10 23:09:02.198 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags {"installPreReleaseVersion":false,"context":{"clientTargetPlatform":"win32-x64","dependecyOrPackExtensionInstall":true},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ws_prot_8/.vscode-server/extensions/extensions.json","external":"file:///home/ws_prot_8/.vscode-server/extensions/extensions.json","path":"/home/ws_prot_8/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.0","date":"2024-07-01T18:53:15.739Z"}}
+2024-07-10 23:09:02.198 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow {"installPreReleaseVersion":false,"context":{"clientTargetPlatform":"win32-x64","dependecyOrPackExtensionInstall":true},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ws_prot_8/.vscode-server/extensions/extensions.json","external":"file:///home/ws_prot_8/.vscode-server/extensions/extensions.json","path":"/home/ws_prot_8/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.91.0","date":"2024-07-01T18:53:15.739Z"}}
+2024-07-10 23:09:03.134 [info] Extension signature verification result for ms-toolsai.vscode-jupyter-cell-tags: Success. Executed: true. Duration: 485ms.
+2024-07-10 23:09:03.135 [info] Extension signature verification result for ms-toolsai.vscode-jupyter-slideshow: Success. Executed: true. Duration: 493ms.
+2024-07-10 23:09:03.147 [info] Extracted extension to file:///home/ws_prot_8/.vscode-server/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.6: ms-toolsai.vscode-jupyter-slideshow
+2024-07-10 23:09:03.148 [info] Extracted extension to file:///home/ws_prot_8/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.9: ms-toolsai.vscode-jupyter-cell-tags
+2024-07-10 23:09:03.156 [info] Extension signature verification result for ms-toolsai.jupyter-keymap: Success. Executed: true. Duration: 493ms.
+2024-07-10 23:09:03.159 [info] Extracted extension to file:///home/ws_prot_8/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.1.2: ms-toolsai.jupyter-keymap
+2024-07-10 23:09:03.165 [info] Extension signature verification result for ms-toolsai.jupyter: Success. Executed: true. Duration: 513ms.
+2024-07-10 23:09:03.169 [info] Renamed to /home/ws_prot_8/.vscode-server/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.6
+2024-07-10 23:09:03.169 [info] Renamed to /home/ws_prot_8/.vscode-server/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.9
+2024-07-10 23:09:03.173 [info] Renamed to /home/ws_prot_8/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.1.2
+2024-07-10 23:09:03.293 [info] Extracted extension to file:///home/ws_prot_8/.vscode-server/extensions/ms-toolsai.jupyter-2024.6.0-linux-x64: ms-toolsai.jupyter
+2024-07-10 23:09:03.317 [info] Renamed to /home/ws_prot_8/.vscode-server/extensions/ms-toolsai.jupyter-2024.6.0-linux-x64
+2024-07-10 23:09:08.359 [info] Extension signature verification result for ms-toolsai.jupyter-renderers: Success. Executed: true. Duration: 479ms.
+2024-07-10 23:09:08.468 [info] Extracted extension to file:///home/ws_prot_8/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.18: ms-toolsai.jupyter-renderers
+2024-07-10 23:09:08.489 [info] Renamed to /home/ws_prot_8/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.18
+2024-07-10 23:09:08.506 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow file:///home/ws_prot_8/.vscode-server/extensions/extensions.json
+2024-07-10 23:09:08.506 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags file:///home/ws_prot_8/.vscode-server/extensions/extensions.json
+2024-07-10 23:09:08.506 [info] Extension installed successfully: ms-toolsai.jupyter-keymap file:///home/ws_prot_8/.vscode-server/extensions/extensions.json
+2024-07-10 23:09:08.506 [info] Extension installed successfully: ms-toolsai.jupyter file:///home/ws_prot_8/.vscode-server/extensions/extensions.json
+2024-07-10 23:09:08.506 [info] Extension installed successfully: ms-toolsai.jupyter-renderers file:///home/ws_prot_8/.vscode-server/extensions/extensions.json
+2024-07-10 23:12:55.802 [info] New EH opened, aborting shutdown
+2024-07-10 23:12:55.803 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ws_prot_8/.vscode-server/cli/servers/Stable-ea1445cc7016315d0f5728f8e8b12a45dc0a7286/server/out/vs/server/node/server.main.js:192:6383)
+    at process.emit (node:events:518:28)
+2024-07-10 23:13:26.657 [info] [<unknown>][8befc7e7][ExtensionHostConnection] <2116581> Extension Host Process exited with code: 0, signal: null.

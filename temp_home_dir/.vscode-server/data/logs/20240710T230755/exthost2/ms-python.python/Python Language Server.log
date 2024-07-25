@@ -1,0 +1,75 @@
+2024-07-10 23:08:48.299 [info] (Client) Pylance async client (2024.7.1) started with python extension (2024.10.0)
+2024-07-10 23:08:48.606 [info] [Info  - 11:08:48 PM] (2117306) Pylance language server 2024.7.1 (pyright version 1.1.369, commit 1168be71) starting
+2024-07-10 23:08:48.607 [info] [Info  - 11:08:48 PM] (2117306) Server root directory: file:///home/ws_prot_8/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist
+2024-07-10 23:08:48.607 [info] [Info  - 11:08:48 PM] (2117306) Starting service instance "ws_prot_20240710"
+2024-07-10 23:08:48.627 [info] [Error - 11:08:48 PM] (2117306) Error reading settings: TypeError: Cannot set properties of undefined (setting 'reportUnboundVariable')
+2024-07-10 23:08:48.632 [info] [Info  - 11:08:48 PM] (2117306) Setting pythonPath for service "ws_prot_20240710": "/bin/python3.11"
+2024-07-10 23:08:48.632 [info] [Info  - 11:08:48 PM] (2117306) Setting environmentName for service "ws_prot_20240710": "3.11.7 (global)"
+2024-07-10 23:08:48.633 [info] [Info  - 11:08:48 PM] (2117306) No include entries specified; assuming /home/ws_prot_8/ws_prot_20240710
+2024-07-10 23:08:48.633 [info] [Info  - 11:08:48 PM] (2117306) Auto-excluding **/node_modules
+2024-07-10 23:08:48.633 [info] [Info  - 11:08:48 PM] (2117306) Auto-excluding **/__pycache__
+2024-07-10 23:08:48.633 [info] [Info  - 11:08:48 PM] (2117306) Auto-excluding **/.*
+2024-07-10 23:08:48.652 [info] [Info  - 11:08:48 PM] (2117306) Assuming Python version 3.11.7.final.0
+2024-07-10 23:08:48.694 [info] [Info  - 11:08:48 PM] (2117306) Found 18 source files
+2024-07-10 23:08:48.975 [info] [Info  - 11:08:48 PM] (2117306) Background analysis(1) root directory: file:///home/ws_prot_8/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist
+2024-07-10 23:08:48.975 [info] [Info  - 11:08:48 PM] (2117306) Background analysis(1) started
+2024-07-10 23:08:49.020 [info] [Info  - 11:08:49 PM] (2117306) Indexer background runner(2) root directory: file:///home/ws_prot_8/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist (index)
+2024-07-10 23:08:49.021 [info] [Info  - 11:08:49 PM] (2117306) Indexing(2) started
+2024-07-10 23:08:49.237 [info] [Info  - 11:08:49 PM] (2117306) scanned(2) 10 files over 1 exec env
+2024-07-10 23:08:49.674 [info] [Info  - 11:08:49 PM] (2117306) indexed(2) 2 files over 1 exec env
+2024-07-10 23:08:49.694 [info] [Info  - 11:08:49 PM] (2117306) Indexing finished(2).
+2024-07-10 23:09:08.779 [info] [Info  - 11:09:08 PM] Server process exited successfully
+2024-07-10 23:09:09.477 [info] (Client) Pylance async client (2024.7.1) started with python extension (2024.10.0)
+2024-07-10 23:09:09.771 [info] [Info  - 11:09:09 PM] (2117422) Pylance language server 2024.7.1 (pyright version 1.1.369, commit 1168be71) starting
+2024-07-10 23:09:09.772 [info] [Info  - 11:09:09 PM] (2117422) Server root directory: file:///home/ws_prot_8/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist
+2024-07-10 23:09:09.780 [info] [Info  - 11:09:09 PM] (2117422) Starting service instance "ws_prot_20240710"
+2024-07-10 23:09:09.800 [info] [Info  - 11:09:09 PM] (2117422) Setting pythonPath for service "ws_prot_20240710": "/bin/python3.11"
+2024-07-10 23:09:09.800 [info] [Info  - 11:09:09 PM] (2117422) Setting environmentName for service "ws_prot_20240710": "3.11.7 (global)"
+2024-07-10 23:09:09.801 [info] [Info  - 11:09:09 PM] (2117422) No include entries specified; assuming /home/ws_prot_8/ws_prot_20240710
+2024-07-10 23:09:09.801 [info] [Info  - 11:09:09 PM] (2117422) Auto-excluding **/node_modules
+2024-07-10 23:09:09.801 [info] [Info  - 11:09:09 PM] (2117422) Auto-excluding **/__pycache__
+2024-07-10 23:09:09.801 [info] [Info  - 11:09:09 PM] (2117422) Auto-excluding **/.*
+2024-07-10 23:09:09.818 [info] [Info  - 11:09:09 PM] (2117422) Assuming Python version 3.11.7.final.0
+2024-07-10 23:09:09.861 [info] [Info  - 11:09:09 PM] (2117422) Found 18 source files
+2024-07-10 23:09:10.088 [info] [Info  - 11:09:10 PM] (2117422) Background analysis(1) root directory: file:///home/ws_prot_8/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist
+2024-07-10 23:09:10.090 [info] [Info  - 11:09:10 PM] (2117422) Background analysis(1) started
+2024-07-10 23:14:16.796 [info] [Info  - 11:14:16 PM] (2117422) Indexer background runner(2) root directory: file:///home/ws_prot_8/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist (index)
+2024-07-10 23:14:16.796 [info] [Info  - 11:14:16 PM] (2117422) Indexing(2) started
+2024-07-10 23:14:16.997 [info] [Info  - 11:14:16 PM] (2117422) scanned(2) 10 files over 1 exec env
+2024-07-10 23:14:17.162 [info] [Info  - 11:14:17 PM] (2117422) indexed(2) 2 files over 1 exec env
+2024-07-10 23:14:17.182 [info] [Info  - 11:14:17 PM] (2117422) Indexing finished(2).
+2024-07-10 23:14:17.266 [info] [Error - 11:14:17 PM] Request textDocument/codeAction failed.
+2024-07-10 23:14:17.266 [info]   Message: Request textDocument/codeAction failed with message: index is out of range
+  Code: -32603 
+2024-07-10 23:14:46.774 [info] [Info  - 11:14:46 PM] (2117422) Setting pythonPath for service "ws_prot_20240710": "/home/ws_prot_8/genvs/oleveler/bin/python"
+2024-07-10 23:14:46.775 [info] [Info  - 11:14:46 PM] (2117422) Setting environmentName for service "ws_prot_20240710": "/home/ws_prot_8/genvs/oleveler/bin/python"
+2024-07-10 23:14:46.775 [info] [Info  - 11:14:46 PM] (2117422) No include entries specified; assuming /home/ws_prot_8/ws_prot_20240710
+2024-07-10 23:14:46.775 [info] [Info  - 11:14:46 PM] (2117422) Auto-excluding **/node_modules
+2024-07-10 23:14:46.775 [info] [Info  - 11:14:46 PM] (2117422) Auto-excluding **/__pycache__
+2024-07-10 23:14:46.775 [info] [Info  - 11:14:46 PM] (2117422) Auto-excluding **/.*
+2024-07-10 23:14:46.797 [info] [Info  - 11:14:46 PM] (2117422) Assuming Python version 3.11.0.final.0
+2024-07-10 23:14:46.844 [info] [Info  - 11:14:46 PM] (2117422) Found 18 source files
+2024-07-10 23:14:47.168 [info] [Info  - 11:14:47 PM] (2117422) Indexer background runner(3) root directory: file:///home/ws_prot_8/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist (index)
+2024-07-10 23:14:47.168 [info] [Info  - 11:14:47 PM] (2117422) Indexing(3) started
+2024-07-10 23:14:47.351 [info] [Error - 11:14:47 PM] Request textDocument/codeAction failed.
+2024-07-10 23:14:47.351 [info]   Message: Request textDocument/codeAction failed with message: index is out of range
+  Code: -32603 
+2024-07-10 23:14:47.528 [info] [Info  - 11:14:47 PM] (2117422) scanned(3) 299 files over 1 exec env
+2024-07-10 23:14:49.570 [info] [Info  - 11:14:49 PM] (2117422) indexed(3) 218 files over 1 exec env
+2024-07-10 23:14:49.627 [info] [Info  - 11:14:49 PM] (2117422) Indexing finished(3).
+2024-07-10 23:14:49.628 [info] [Error - 11:14:49 PM] (2117422) Error reading settings: TypeError: Cannot set properties of undefined (setting 'reportUnboundVariable')
+2024-07-10 23:14:49.629 [info] [Info  - 11:14:49 PM] (2117422) Starting service instance "ws_prot_20240710"
+2024-07-10 23:14:49.641 [info] [Info  - 11:14:49 PM] (2117422) Setting pythonPath for service "ws_prot_20240710": "/home/ws_prot_8/ws_prot_20240710"
+2024-07-10 23:14:49.642 [info] [Info  - 11:14:49 PM] (2117422) Setting environmentName for service "ws_prot_20240710": "/home/ws_prot_8/genvs/oleveler/bin/python"
+2024-07-10 23:14:49.642 [info] [Info  - 11:14:49 PM] (2117422) No include entries specified; assuming /home/ws_prot_8/ws_prot_20240710
+2024-07-10 23:14:49.642 [info] [Info  - 11:14:49 PM] (2117422) Auto-excluding **/node_modules
+2024-07-10 23:14:49.642 [info] [Info  - 11:14:49 PM] (2117422) Auto-excluding **/__pycache__
+2024-07-10 23:14:49.642 [info] [Info  - 11:14:49 PM] (2117422) Auto-excluding **/.*
+2024-07-10 23:14:49.669 [info] [Info  - 11:14:49 PM] (2117422) Found 18 source files
+2024-07-10 23:14:49.955 [info] [Info  - 11:14:49 PM] (2117422) Background analysis(4) root directory: file:///home/ws_prot_8/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist
+2024-07-10 23:14:49.956 [info] [Info  - 11:14:49 PM] (2117422) Background analysis(4) started
+2024-07-10 23:14:49.990 [info] [Info  - 11:14:49 PM] (2117422) Indexer background runner(5) root directory: file:///home/ws_prot_8/.vscode-server/extensions/ms-python.vscode-pylance-2024.7.1/dist (index)
+2024-07-10 23:14:49.990 [info] [Info  - 11:14:49 PM] (2117422) Indexing(5) started
+2024-07-10 23:14:50.203 [info] [Info  - 11:14:50 PM] (2117422) scanned(5) 1 files over 1 exec env
+2024-07-10 23:14:50.387 [info] [Info  - 11:14:50 PM] (2117422) indexed(5) 1 files over 1 exec env
+2024-07-10 23:14:50.403 [info] [Info  - 11:14:50 PM] (2117422) Indexing finished(5).

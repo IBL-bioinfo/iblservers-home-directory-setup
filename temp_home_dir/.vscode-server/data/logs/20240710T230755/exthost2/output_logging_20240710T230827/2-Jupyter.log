@@ -1,0 +1,22 @@
+Visual Studio Code (1.91.0, ssh-remote, desktop)
+Jupyter Extension Version: 2024.6.0.
+Python Extension Version: 2024.10.0.
+Pylance Extension Version: 2024.7.1.
+Platform: linux (x64).
+Workspace folder ~/ws_prot_20240710, Home = /home/ws_prot_8
+23:14:19.723 [warn] The following kernels use interpreters that are no longer valid or not recognized by Python extension, Kernels startUsingPythonInterpreter:'id=.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher'(interpreterId='/bin/python3') and valid interpreter ids include /bin/python3.6, /bin/python3.11, /usr/bin/python3.11, /usr/bin/python3.6
+23:14:19.739 [warn] The following kernels use interpreters that are no longer valid or not recognized by Python extension, Kernels startUsingPythonInterpreter:'id=.jvsc74a57bd030295c5bec572e859485b1ffa5e89b8b3e2022ef6e3e739c1ac40f143a557caf./usr/bin/python3.6./usr/bin/python3.6.-m#ipykernel_launcher'(interpreterId='/usr/bin/python3.6') and valid interpreter ids include /bin/python3.6, /bin/python3.11, /usr/bin/python3.11, /usr/bin/python3
+23:14:55.818 [info] Starting Kernel (Python Path: ~/genvs/oleveler/bin/python, Conda, 3.11.0) for '~/ws_prot_20240710/tutorial.ipynb' (disableUI=true)
+23:14:55.869 [error] Failed to get activated conda env vars for ~/genvs/oleveler/bin/python
+                 in 108ms
+23:14:55.870 [error] Unable to determine site packages path for python ~/genvs/oleveler/bin/python (Conda)
+23:14:55.879 [info] Process Execution: ~/genvs/oleveler/bin/python -m pip list
+23:14:55.892 [error] Failed to get activated conda env vars for ~/genvs/oleveler/bin/python
+                 in 67ms
+23:14:55.892 [error] Unable to determine site packages path for python ~/genvs/oleveler/bin/python (Conda)
+23:14:55.894 [info] Process Execution: ~/genvs/oleveler/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+23:14:55.896 [info] Process Execution: ~/genvs/oleveler/bin/python -m ipykernel_launcher --f=/home/~/.local/share/jupyter/runtime/kernel-v2-2116979uH7X3erVm5M8.json
+    > cwd: //home/~/ws_prot_20240710
+23:14:56.377 [info] Kernel successfully started
+23:14:56.381 [info] Process Execution: ~/genvs/oleveler/bin/python /home/~/.vscode-server/extensions/ms-toolsai.jupyter-2024.6.0-linux-x64/pythonFiles/printJupyterDataDir.py
+23:15:00.321 [info] Dispose Kernel '~/ws_prot_20240710/tutorial.ipynb' associated with '~/ws_prot_20240710/tutorial.ipynb'
